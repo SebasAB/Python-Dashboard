@@ -29,5 +29,10 @@ Download the "graph_data.py" Python file and execute it, this will open a new ta
 
 
 ### Images 
-
+#### Proteus Project
 ![Proteus project](images/sensores.png)
+
+#### Dashboard graphs 
+![Dashboard graphs](images/dash1.png)
+![Dashboard graphs](images/dash2.png)
+![Dashboard graphs](images/dash3.png)
