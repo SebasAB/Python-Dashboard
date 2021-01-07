@@ -25,4 +25,9 @@ Download the Proteus project with the .ino file, compile the .ino and copy the .
 Download the "update_db.py" Python file and execute it, this will create a data base with the name "DHT_DB" and a table named "Data". 
 
 ### Third step 
-Download the "graph_data.py" Python file and execute it, this will open a new tab in your browser with all the information you collected presented in different graphs. 
+Download the "graph_data.py" Python file and execute it, this will open a new tab in your browser with all the information you collected presented in different graphs.
+
+
+### Images 
+
+![Proteus project](images/sensores.png)
