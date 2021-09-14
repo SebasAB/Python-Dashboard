@@ -13,7 +13,6 @@ serialArduino = Serial(port='COM2', baudrate = 9600, timeout=None)
 
 while True:
 	data = serialArduino.readline().decode('utf-8')
-
 	now = time.localtime()
 	time_stamp = (str(now[3]) + ":" + str(now[4]) + ":" + str(now[5])) 
 	data = data.split(",")
